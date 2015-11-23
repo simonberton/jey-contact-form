@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jey Contact Form\n"
+"POT-Creation-Date: 2015-11-23 19:18-0300\n"
+"PO-Revision-Date: 2015-11-23 19:25-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: jey-contact-form.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: help-page.php:6
+msgid "Welcome to <span><strong>Jey</strong>Contact Form Plugin!"
+msgstr ""
+"Bienvenido al <span><strong>JEY/strong>Plugin de Formulario de contacto!"
+
+#: help-page.php:11 inc/base-page-template.php:12
+msgid "Save"
+msgstr "Guardar"
+
+#: help-page.php:16
+msgid "About the plugin"
+msgstr "Acerca del plugin"
+
+#: help-page.php:17
+msgid "This plugin is built by"
+msgstr "Este plugin es construido por"
+
+#: help-page.php:18
+msgid "Find us on"
+msgstr "Buscamos en"
+
+#: help-page.php:19
+msgid "If you enjoy using the plugin, go ahead and buy me a beer"
+msgstr "Si disfrutas de este plugin y deseas invitarme un trago"
+
+#: help-page.php:20
+msgid ""
+"Plugin with flags of countries in telephone field and validation for each "
+"one comming on the paid version. Also will let you choose which fields are "
+"required and each message for validation"
+msgstr ""
+"Plugin con banderas en el campo de teléfono y validación especifica para "
+"cada país, también con el formato de teléfono correspondiente. Todo esto y "
+"mas en la versión paga que vendrá pronto."
+
+#: inc/base-page-template.php:3
+msgid "Base plugin page"
+msgstr ""
+
+#: inc/base-page-template.php:5
+msgid "Sample base plugin page"
+msgstr ""
+
+#: inc/dx-sample-widget.class.php:18
+msgid "DX Sample Widget"
+msgstr ""
+
+#: inc/dx-sample-widget.class.php:19
+msgid "Display a sample DX Widget"
+msgstr ""
+
+#: inc/dx-sample-widget.class.php:89
+msgid "Title:"
+msgstr "Titulo:"
+
+#: inc/dx-sample-widget.class.php:90
+msgid "Sample Text:"
+msgstr ""
+
+#: inc/dx-sample-widget.class.php:92
+msgid "Areas:"
+msgstr ""
+
+#: inc/dx-sample-widget.class.php:94
+msgid "Asia"
+msgstr ""
+
+#: inc/dx-sample-widget.class.php:95
+msgid "Africa"
+msgstr ""
+
+#: inc/dx-sample-widget.class.php:96
+msgid "North America"
+msgstr ""
+
+#: inc/dx-sample-widget.class.php:97
+msgid "South America"
+msgstr ""
+
+#: inc/dx-sample-widget.class.php:98
+msgid "Antarctica"
+msgstr ""
+
+#: inc/dx-sample-widget.class.php:99
+msgid "Europe"
+msgstr ""
+
+#: inc/dx-sample-widget.class.php:100
+msgid "Australia"
+msgstr ""
+
+#: inc/remote-page-template.php:3
+msgid "Remote plugin page"
+msgstr ""
+
+#: inc/remote-page-template.php:5
+msgid "Performing side activities - AJAX and HTTP fetch"
+msgstr ""
+
+#: inc/remote-page-template.php:12
+msgid "Store a Database option with AJAX"
+msgstr ""
+
+#: inc/remote-page-template.php:16
+msgid "Save with AJAX"
+msgstr ""
+
+#: inc/remote-page-template.php:19
+msgid "Fetch a title from URL with HTTP call through AJAX"
+msgstr ""
+
+#: inc/remote-page-template.php:23
+msgid "Fetch URL title with AJAX"
+msgstr ""
+
+#: jey-contact-form-plugin-settings.class.php:28
+msgid "Configure your settings"
+msgstr "Configuración "
+
+#: jey-contact-form-plugin-settings.class.php:35
+msgid "Active Google Captcha: "
+msgstr "Activar Google Captcha:"
+
+#: jey-contact-form-plugin-settings.class.php:43
+msgid "Google API key: "
+msgstr ""
+
+#: jey-contact-form-plugin-settings.class.php:51
+msgid "Google Secret: "
+msgstr ""
+
+#: jey-contact-form-plugin-settings.class.php:59
+msgid "Mail To: "
+msgstr "To del email:"
+
+#: jey-contact-form-plugin-settings.class.php:67
+msgid "Mail Subject: "
+msgstr "Asunto del email:"
+
+#: jey-contact-form-plugin-settings.class.php:75
+msgid "Mail From Headers: "
+msgstr "Readers del email:"
+
+#: jey-contact-form-plugin-settings.class.php:83
+msgid ""
+"<br><strong>[jeycontactform]</strong> Paste this shortcode whenever you want "
+"Jey Contact Form <br><br>If you want to use google ReCaptcha, configure your "
+"account, enable it below and add your credentials<br><a href = \"https://www."
+"google.com/recaptcha/admin\">https://www.google.com/recaptcha/admin</a>"
+msgstr ""
+"<br><strong>[jeycontactform]</strong> Pega el código en donde quieras que "
+"aparezca el formulario de contacto JEY<br><br>Si deseas utilizar google "
+"ReCaptcha, crea tu cuenta, activalo y pega tus credenciales<br><a href = "
+"\"https://www.google.com/recaptcha/admin\">https://www.google.com/recaptcha/"
+"admin</a>"
+
+#: jey-contact-form.php:158
+msgid "JEY Contact Form"
+msgstr "Formulario de contacto JEY"
+
+#: jey-contact-form.php:204
+msgid "Contacts"
+msgstr "Contactos"
+
+#: jey-contact-form.php:205
+msgid "Contact"
+msgstr "Contacto"
+
+#: jey-contact-form.php:206
+msgctxt "contact"
+msgid "Add New"
+msgstr "Agregar Nuevo"
+
+#: jey-contact-form.php:207
+msgid "Add New Contact"
+msgstr "Agregar Nuevo Contacto"
+
+#: jey-contact-form.php:208
+msgid "Edit Contact"
+msgstr "Editar Contacto"
+
+#: jey-contact-form.php:209
+msgid "New Contact"
+msgstr "Nuevo Contacto"
+
+#: jey-contact-form.php:210
+msgid "View Contact"
+msgstr ""
+
+#: jey-contact-form.php:211
+msgid "Search Contact"
+msgstr ""
+
+#: jey-contact-form.php:212
+msgid "No Contacts found"
+msgstr ""
+
+#: jey-contact-form.php:213
+msgid "No Contacts found in Trash"
+msgstr ""
+
+#: jey-contact-form.php:215
+msgid "Contacts from people"
+msgstr "Contactos de personas"
+
+#: jey-contact-form.php:246
+msgid "First name:"
+msgstr "Nombre:"
+
+#: jey-contact-form.php:250
+msgid "Last name:"
+msgstr "Apellido:"
+
+#: jey-contact-form.php:254
+msgid "Phone:"
+msgstr "Teléfono: "
+
+#: jey-contact-form.php:258
+msgid "Email:"
+msgstr ""
+
+#: jey-contact-form.php:262
+msgid "Message:"
+msgstr "Mensaje:"
+
+#: jey-contact-form.php:378
+msgid "First name *."
+msgstr "Nombre *."
+
+#: jey-contact-form.php:380
+msgid "Enter your first name"
+msgstr "Ingrese su nombre"
+
+#: jey-contact-form.php:383
+msgid "Please enter your name."
+msgstr "Favor de ingresar su nombre."
+
+#: jey-contact-form.php:386
+msgid "Last name *"
+msgstr "Apellido *."
+
+#: jey-contact-form.php:388
+msgid "Enter your last name"
+msgstr "Ingrese su apellido"
+
+#: jey-contact-form.php:391
+msgid "Please enter your last name."
+msgstr "Favor de ingresar su apellido."
+
+#: jey-contact-form.php:394
+msgid "Phone *"
+msgstr "Teléfono *"
+
+#: jey-contact-form.php:396
+msgid "Enter your phone number"
+msgstr "Ingrese un teléfono valido. "
+
+#: jey-contact-form.php:399
+msgid "Please enter a valid phone number."
+msgstr "Favor de ingresar un teléfono valido. "
+
+#: jey-contact-form.php:402
+msgid "Email Address *"
+msgstr "Dirección de email *"
+
+#: jey-contact-form.php:405
+msgid "Enter your email"
+msgstr "Ingrese su email"
+
+#: jey-contact-form.php:408
+msgid "Please enter a valid e-mail address."
+msgstr "Favor de ingresar un email valido. "
+
+#: jey-contact-form.php:411
+msgid "Message *<"
+msgstr "Mensaje *<"
+
+#: jey-contact-form.php:413
+msgid "Enter your message"
+msgstr "Ingrese su mensaje"
+
+#: jey-contact-form.php:423
+msgid "Submit"
+msgstr "Enviar"
+
+#: jey-contact-form.php:463
+msgid "Invalid HTTP resource"
+msgstr ""
+
+#: jey-contact-form.php:474
+msgid "No title found or site was not fetched properly"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Jey Contact Form"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://simonberton.com/contact-form-plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A plugin that prints a contact form with google recaptcha, has a backend for "
+"you users contacts"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "simonberton"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://simonberton.com/"
+msgstr ""
